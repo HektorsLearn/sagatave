@@ -1,0 +1,27 @@
+1.cookies nestrādā lai atcerētos
+    Salabots
+
+2.profila rediģēšana
+Daļēji2.1 inactive(delete);
+Daļēji   2.2 admin opcijas mainīt lapas vai profilus(drīzāk uztaisīt par aktīviem,neaktīviem un iespēju dzēst neaktīvos 2.profilus(iztīrīt trash ar admin system profilu));
+    2.3 parastais profils kam administrācijas profilā ir tiesības mainīt informāciju tikai par sevi.
+Done2.4 Ja profils tiek izveidots, automātiski iedod viņam publisko pieeju; 
+    2.5 System admins tikai drīkst rediģēt profilus 
+Done2.6 Izveidot virsrakstu collonām
+Done2.7 Parolēm minimālais simbolu veids caur php lai nevar rediģēt hmtl iekšpusē
+    2.8 Jāizveido, ka rediģētie profili pārbauda vai ar šādu lietotājvārdu jau neeksistē. Ja šis pats profils ticis labots, tad var atļaut labot profilu, jo DB jau eksistē šis profils.
+    2.8 Piesledzoties jāsalīdzina TIEŠIE burti no DB
+
+
+3.lapas
+    3.1 Izveidot numerēšanas lapām, kas attiecīgi izdrukā pēc numurēšanas.
+
+
+4.profils
+    
+
+5.Pasūtījumi
+    5.1 vajag salabot rediģēšanas iespēju. uztaisīt ka labošanas forma tiek izprintēta blakām priekš izvēlētās preces id
+    
+6. Grozs
+    6.1 Vajag salabot preču palielināšanu iespēju
